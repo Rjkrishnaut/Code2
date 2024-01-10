@@ -11,6 +11,9 @@ body {
 
 h2 {
  display: flex;
+ color: white;
+ font-size: 25px;
+ font-family: fantasy;
  justify-content: center;
 }
 
