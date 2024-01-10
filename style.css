@@ -10,8 +10,6 @@ body {
 }
 
 h2 {
- animation: 1s blink linear infinite;
- display: flex;
  justify-content: center;
 }
 
